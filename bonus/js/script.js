@@ -1,6 +1,6 @@
 var distance = prompt("Quanti chilomentri devi percorrere?")
 
-var year = prompt("Quanti anni hai?")
+var year = prompt("Quale è il tuo anno di nascita?")
 var d = new Date();
 var year = d.getFullYear() - parseInt(age);
 
